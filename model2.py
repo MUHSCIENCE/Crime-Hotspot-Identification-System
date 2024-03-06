@@ -29,7 +29,7 @@ def create_df(filenames):
 
 '''Let's write code to automate the creating of our dataset'''
 
-DATA_PATH = "C:/Users/Henry/Crime Hotspot Identification System/CRIME-INPUT/"
+DATA_PATH = "C:/Users/muhsc/Crime Hotspot Identification System/CRIME-INPUT/"
 
 file_names = ['2015.csv', '2016.csv', '2017.csv', '2018.csv', '2019.csv', '2020.csv', '2021.csv', '2022.csv']
 file_names = [DATA_PATH+x for x in file_names]
